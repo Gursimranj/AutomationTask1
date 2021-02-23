@@ -1,0 +1,5 @@
+2021-02-23 23:02:33 INFO  ServiceHooks:23 - capturing maven properties
+2021-02-23 23:02:54 INFO  ServiceHooks:28 - browser passed through maven null
+2021-02-23 23:02:55 INFO  ServiceHooks:35 - capturing propertites
+2021-02-23 23:02:56 INFO  ServiceHooks:40 - browser passed through Jenkins null
+2021-02-23 23:02:631 INFO  ServiceHooks:60 - User redirect to Application and perform the required action is Failed
